@@ -21,7 +21,7 @@ git push  -u origin master
 That's all about how to commit to GitHub
 
 
->>>****Compile and package the applicatio from command prompt*****
+>>>****Compile and package the application from command prompt*****
 1.Goto cmd pom.xml
 2.mvn compile
 3.mvn package
